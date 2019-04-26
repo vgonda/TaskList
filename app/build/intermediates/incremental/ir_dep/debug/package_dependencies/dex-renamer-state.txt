@@ -1,0 +1,4 @@
+#Sun Mar 17 15:13:25 CDT 2019
+base.0=/Users/victoriagonda/Documents/Presentations/AndroidX/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

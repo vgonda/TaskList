@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Tasklist</string>
+  <string name="list_title">What is this list for?</string>
+  <string name="save">Save</string>
+  <string name="title_add_item">What do you need to do for this task?</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

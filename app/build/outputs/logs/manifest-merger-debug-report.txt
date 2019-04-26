@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/f40db0587be0be7af2e752d386b73676/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/fe7ec1939a5806a4839e02d7520046a6/AndroidManifest.xml:17:1-24:12
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-androidx-viewmodel-2.0.0-beta-4.aar/c4e1e416b77bd5c8d1909b8f283e31c6/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-scope:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-androidx-scope-2.0.0-beta-4.aar/26a857ce75331794e9edac531c8517b4/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/3ccb62bc823ea75a7d011d0e675be869/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/05c59a0c6538af395972bf096b0f76ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/4d70d720180c430caf474358c2775fa3/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b23aa3d15bec699e77855e65c1026d34/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha04] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha04.aar/8a4633b27feeb494801cb7177a2e2b1d/AndroidManifest.xml:17:1-28:12
+MERGED from [org.koin:koin-android:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-android-2.0.0-beta-4.aar/746d9cb892174f175015e744c849e3b8/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/4bbf4d08c136e9bddf40ca604d9cf811/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9579e73feac92137cd8e26f052ed03c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/8e6811731ca4570d1218cb28995d5421/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d142a62684268ec1b9e345752e0ea0a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/f4535d4883d4bbfd24b3f0f81313f6fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/8bdc8c44d13423a2411e667c0471d101/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/c7c9372778f98644d4ca85aa4f1e97d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/8bc36f876fff7fcde2258993b4c8c539/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/66f3a42b832372ee37d52a6918d96abe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/364f14fa521a42c13b6db4b34fd4a495/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/2f4bfa2070598a3ab71f920883292211/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3e2ee7a7b59b7988e702bbe826047aea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/5c74d5d4f44d0dc1cb1722f9850b44a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c82f17556a75f9a62e75809e862e0423/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0386db480dcb500452bbe897551393a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/a18506752d8514c3ede7ae73da1e85c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b01b706724f1208613449ae2228b3be9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/3d61ce8d680e6337a4867c9789bb4cd3/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f62fe9c7482239d9a5155d86b2d6034a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/185682cd646cc091d68a6a9256335e84/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/dc49be39c7fb0bde7cdc96da2468655c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1c8116d7d8aa839cab525d9029817993/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1ccaa690a0448b4d7dc70ab222c019fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f5eafe96754167e6059527371544af5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3e1d2a24380e158f1a1c75bd1fd36620/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/a9ef89088b77d3359ce29731df60f5c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/5d39e8319cfee4a80674128a54759011/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/3dac7c81bbf69825b29ae5b111977d0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/875442d7af8b7c74771af61a33079717/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f00c7bf27796aed5a1a341972e34fb11/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7c12c9a7f9ed2e605d13d3e2dc0b57dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/26aac4513a729c895a0d306e80ccefc2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:3:3-47
+		INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:5:3-25:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/f40db0587be0be7af2e752d386b73676/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/f40db0587be0be7af2e752d386b73676/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/fe7ec1939a5806a4839e02d7520046a6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/fe7ec1939a5806a4839e02d7520046a6/AndroidManifest.xml:22:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-androidx-viewmodel-2.0.0-beta-4.aar/c4e1e416b77bd5c8d1909b8f283e31c6/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-androidx-viewmodel-2.0.0-beta-4.aar/c4e1e416b77bd5c8d1909b8f283e31c6/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-androidx-scope-2.0.0-beta-4.aar/26a857ce75331794e9edac531c8517b4/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-androidx-scope-2.0.0-beta-4.aar/26a857ce75331794e9edac531c8517b4/AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/4d70d720180c430caf474358c2775fa3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/4d70d720180c430caf474358c2775fa3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha04] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha04.aar/8a4633b27feeb494801cb7177a2e2b1d/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha04] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha04.aar/8a4633b27feeb494801cb7177a2e2b1d/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b01b706724f1208613449ae2228b3be9/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b01b706724f1208613449ae2228b3be9/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/3d61ce8d680e6337a4867c9789bb4cd3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/3d61ce8d680e6337a4867c9789bb4cd3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/185682cd646cc091d68a6a9256335e84/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/185682cd646cc091d68a6a9256335e84/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b01b706724f1208613449ae2228b3be9/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:10:5-31
+	android:label
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:9:5-37
+	android:icon
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:8:5-39
+	android:allowBackup
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:7:5-32
+	android:theme
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:11:5-36
+	android:name
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:6:5-62
+activity#com.victoriagonda.android.tasklist.app.SplashActivity
+ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:14:5-20:16
+	android:name
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:14:15-83
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:18:19-66
+activity#com.victoriagonda.android.tasklist.MainActivity
+ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:23:15-77
+activity#com.victoriagonda.android.tasklist.DetailActivity
+ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:24:5-82
+	android:name
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml:24:15-79
+uses-sdk
+INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/f40db0587be0be7af2e752d386b73676/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/f40db0587be0be7af2e752d386b73676/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/fe7ec1939a5806a4839e02d7520046a6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/fe7ec1939a5806a4839e02d7520046a6/AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-androidx-viewmodel-2.0.0-beta-4.aar/c4e1e416b77bd5c8d1909b8f283e31c6/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-androidx-viewmodel-2.0.0-beta-4.aar/c4e1e416b77bd5c8d1909b8f283e31c6/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-androidx-scope-2.0.0-beta-4.aar/26a857ce75331794e9edac531c8517b4/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-androidx-scope-2.0.0-beta-4.aar/26a857ce75331794e9edac531c8517b4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/3ccb62bc823ea75a7d011d0e675be869/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/3ccb62bc823ea75a7d011d0e675be869/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/05c59a0c6538af395972bf096b0f76ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/05c59a0c6538af395972bf096b0f76ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/4d70d720180c430caf474358c2775fa3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/4d70d720180c430caf474358c2775fa3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b23aa3d15bec699e77855e65c1026d34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b23aa3d15bec699e77855e65c1026d34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha04] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha04.aar/8a4633b27feeb494801cb7177a2e2b1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha04] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha04.aar/8a4633b27feeb494801cb7177a2e2b1d/AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-android:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-android-2.0.0-beta-4.aar/746d9cb892174f175015e744c849e3b8/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.0.0-beta-4] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/koin-android-2.0.0-beta-4.aar/746d9cb892174f175015e744c849e3b8/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/4bbf4d08c136e9bddf40ca604d9cf811/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/4bbf4d08c136e9bddf40ca604d9cf811/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9579e73feac92137cd8e26f052ed03c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9579e73feac92137cd8e26f052ed03c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/8e6811731ca4570d1218cb28995d5421/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/8e6811731ca4570d1218cb28995d5421/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d142a62684268ec1b9e345752e0ea0a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d142a62684268ec1b9e345752e0ea0a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/f4535d4883d4bbfd24b3f0f81313f6fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/f4535d4883d4bbfd24b3f0f81313f6fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/8bdc8c44d13423a2411e667c0471d101/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/8bdc8c44d13423a2411e667c0471d101/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/c7c9372778f98644d4ca85aa4f1e97d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/c7c9372778f98644d4ca85aa4f1e97d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/8bc36f876fff7fcde2258993b4c8c539/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/8bc36f876fff7fcde2258993b4c8c539/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/66f3a42b832372ee37d52a6918d96abe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/66f3a42b832372ee37d52a6918d96abe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/364f14fa521a42c13b6db4b34fd4a495/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/364f14fa521a42c13b6db4b34fd4a495/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/2f4bfa2070598a3ab71f920883292211/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/2f4bfa2070598a3ab71f920883292211/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3e2ee7a7b59b7988e702bbe826047aea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3e2ee7a7b59b7988e702bbe826047aea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/5c74d5d4f44d0dc1cb1722f9850b44a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/5c74d5d4f44d0dc1cb1722f9850b44a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c82f17556a75f9a62e75809e862e0423/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c82f17556a75f9a62e75809e862e0423/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0386db480dcb500452bbe897551393a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0386db480dcb500452bbe897551393a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/a18506752d8514c3ede7ae73da1e85c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/a18506752d8514c3ede7ae73da1e85c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b01b706724f1208613449ae2228b3be9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/b01b706724f1208613449ae2228b3be9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/3d61ce8d680e6337a4867c9789bb4cd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/3d61ce8d680e6337a4867c9789bb4cd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f62fe9c7482239d9a5155d86b2d6034a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f62fe9c7482239d9a5155d86b2d6034a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/185682cd646cc091d68a6a9256335e84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/185682cd646cc091d68a6a9256335e84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/dc49be39c7fb0bde7cdc96da2468655c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/dc49be39c7fb0bde7cdc96da2468655c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1c8116d7d8aa839cab525d9029817993/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1c8116d7d8aa839cab525d9029817993/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1ccaa690a0448b4d7dc70ab222c019fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1ccaa690a0448b4d7dc70ab222c019fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f5eafe96754167e6059527371544af5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f5eafe96754167e6059527371544af5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3e1d2a24380e158f1a1c75bd1fd36620/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3e1d2a24380e158f1a1c75bd1fd36620/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/a9ef89088b77d3359ce29731df60f5c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/a9ef89088b77d3359ce29731df60f5c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/5d39e8319cfee4a80674128a54759011/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/5d39e8319cfee4a80674128a54759011/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/3dac7c81bbf69825b29ae5b111977d0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/3dac7c81bbf69825b29ae5b111977d0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/875442d7af8b7c74771af61a33079717/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/875442d7af8b7c74771af61a33079717/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f00c7bf27796aed5a1a341972e34fb11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/f00c7bf27796aed5a1a341972e34fb11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7c12c9a7f9ed2e605d13d3e2dc0b57dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/7c12c9a7f9ed2e605d13d3e2dc0b57dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/26aac4513a729c895a0d306e80ccefc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/26aac4513a729c895a0d306e80ccefc2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/victoriagonda/Documents/Presentations/AndroidX/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0-alpha04] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha04.aar/8a4633b27feeb494801cb7177a2e2b1d/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha04] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha04.aar/8a4633b27feeb494801cb7177a2e2b1d/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha04] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha04.aar/8a4633b27feeb494801cb7177a2e2b1d/AndroidManifest.xml:24:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/185682cd646cc091d68a6a9256335e84/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/185682cd646cc091d68a6a9256335e84/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/185682cd646cc091d68a6a9256335e84/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/185682cd646cc091d68a6a9256335e84/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/victoriagonda/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/185682cd646cc091d68a6a9256335e84/AndroidManifest.xml:24:13-79
